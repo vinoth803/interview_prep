@@ -1,4 +1,0 @@
-﻿  child.c
-C:\interview_prep\os\child.c(7,60): warning C4013: 'getpid' undefined; assuming extern returning int
-C:\interview_prep\os\child.c(12,11): warning C4013: 'execlp' undefined; assuming extern returning int
-  child.vcxproj -> C:\interview_prep\build\Debug\child.exe
